@@ -22,4 +22,9 @@
         android:textColor="@color/white"
         android:gravity="center"
         android:layout_margin="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ria"
+        />
 </LinearLayout>
